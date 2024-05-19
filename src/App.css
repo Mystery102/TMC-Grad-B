@@ -7,7 +7,7 @@
 
 .logo {
   height: 6em;
-  padding: 1.5em;
+  padding: 1.5em; 
   will-change: filter;
   transition: filter 300ms;
 }
@@ -39,4 +39,49 @@
 
 .read-the-docs {
   color: #888;
+}
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.App-header {
+  background-color: #f8f9fa;
+  padding: 20px;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin: 0 10px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #007bff;
+}
+
+h1 {
+  font-size: 24px;
+  margin: 20px 0;
+}
+
+button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin: 0 10px;
+  cursor: pointer;
+}
+.background-image {
+  background-image: url('/hero.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 100px; /* adjust the height as needed */
+  width: 100%; /* adjust the width as needed */
 }
