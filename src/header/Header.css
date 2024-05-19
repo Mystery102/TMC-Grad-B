@@ -1,0 +1,62 @@
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.App-header {
+  background-color: #f8f9fa;
+  padding: 20px;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+nav li {
+padding: 0 20px;  }
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+}
+ 
+h1 {
+  font-size: 24px;
+  
+  text-align:center;
+  color: black;
+}
+nav {
+  position: relative;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+button {
+  background-color: red;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin: 0 10px;
+  cursor: pointer;
+}
+.background-image {
+  background-image: url('./hero.jpg');
+  background-size: cover;
+  background-position: center; 
+  height: 300px; /* adjust the height as needed */
+  width: 1000px; /* adjust the width as needed */
+  margin:8px;
+  padding-top: 150px;
+  text-align:center;
+  justify-content:center;
+  color: black;
+}

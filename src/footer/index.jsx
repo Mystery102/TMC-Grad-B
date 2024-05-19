@@ -41,13 +41,13 @@ Pages
 </nav>
 <div class="pictures">
   <a href="" target="_blank" rel="noopener noreferrer">
-    <img src={anythin1_img} alt="anythin1" className="img"/>
+    <img src={anythin1_img} alt="anythin1" className="img2"/>
   </a>
   <a href="" target="_blank" rel="noopener noreferrer">
-    <img src={anythin2_img} alt="anythin2" className="img"/>
+    <img src={anythin2_img} alt="anythin2" className="img2"/>
   </a>
   <a href="" target="_blank" rel="noopener noreferrer">
-    <img src={anythin3_img} alt="anythin3" className="img"/>
+    <img src={anythin3_img} alt="anythin3" className="img2"/>
   </a>
 
  
